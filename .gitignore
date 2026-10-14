@@ -1,0 +1,19 @@
+# Python and notebook runtime files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Training artefacts and large datasets
+data/
+datasets/
+runs/
+weights/
+*.pt
+*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
